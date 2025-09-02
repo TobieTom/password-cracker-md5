@@ -1,0 +1,8 @@
+# MD5 hashes for password cracking practice
+# Format: hash_value
+
+482c811da5d5b4bc6d497ffa98491e38
+21232f297a57a5a743894a0e4a801fc3
+e10adc3949ba59abbe56e057f20f883e
+d8578edf8458ce06fbc5bb76a58c5ca4
+0d107d09f5bbe40cade3de5c71e9e9b7
